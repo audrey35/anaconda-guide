@@ -45,25 +45,25 @@ If you figured out which one you'd like to install, go ahead and download the in
 
 [Download Anaconda Installer](https://www.anaconda.com/download/#windows)
 
-![1532894134473](C:\Users\Aram\AppData\Local\Temp\1532894134473.png)
+![DownloadAnaconda](https://github.com/audrey35/anaconda-guide/images/DownloadAnaconda.png)
 
 [Download Miniconda Installer](https://conda.io/miniconda.html)
 
-![1532894037459](C:\Users\Aram\AppData\Local\Temp\1532894037459.png)
+![DownloadMiniconda](https://github.com/audrey35/anaconda-guide/images/DownloadMiniconda.png)
 
 Once you have downloaded a conda installer, simply run the downloaded .exe file and follow the instructions on the screen. 
 
-![1532894278596](C:\Users\Aram\AppData\Local\Temp\1532894278596.png)
+![DownloadedExe](https://github.com/audrey35/anaconda-guide/images/DownloadedExe.png)
 
-![1532894313973](C:\Users\Aram\AppData\Local\Temp\1532894313973.png)
+![Miniconda3Installation](https://github.com/audrey35/anaconda-guide/images/Miniconda3Installation.png)
 
-![1532894339797](C:\Users\Aram\AppData\Local\Temp\1532894339797.png)
+![Miniconda3License](https://github.com/audrey35/anaconda-guide/images/Miniconda3License.png)
 
-![1532894380449](C:\Users\Aram\AppData\Local\Temp\1532894380449.png)
+![Miniconda3UserSetting](https://github.com/audrey35/anaconda-guide/images/Miniconda3UserSetting.png)
 
 Anaconda recommends installing in C:\anaconda [Documentation](https://docs.anaconda.com/anaconda/faq#in-what-folder-should-i-install-anaconda-on-windows)
 
-![1532894565390](C:\Users\Aram\AppData\Local\Temp\1532894565390.png)
+![Miniconda3InstallLocation](https://github.com/audrey35/anaconda-guide/images/Miniconda3InstallLocation.png)
 
 Recommend not checking Add Anaconda to my PATH environment, unless this is the only Python installed on your computer. 
 
@@ -71,7 +71,7 @@ Recommend not checking Register Anaconda as my default Python 3.6, unless this i
 
 [Add Anaconda to my PATH environment variable](https://docs.anaconda.com/anaconda/faq#should-i-add-anaconda-to-the-windows-path)
 
-![1532894721256](C:\Users\Aram\AppData\Local\Temp\1532895169295.png)
+![Miniconda3PathSettings](https://github.com/audrey35/anaconda-guide/images/Miniconda3PathSettings.png)
 
 Below are some links with detailed instructions on installation.
 
