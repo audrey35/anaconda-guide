@@ -45,25 +45,25 @@ If you figured out which one you'd like to install, go ahead and download the in
 
 [Download Anaconda Installer](https://www.anaconda.com/download/#windows)
 
-![DownloadAnaconda](https://github.com/audrey35/anaconda-guide/images/DownloadAnaconda.png)
+![DownloadAnaconda](https://github.com/audrey35/anaconda-guide/blob/master/images/DownloadAnaconda.png)
 
 [Download Miniconda Installer](https://conda.io/miniconda.html)
 
-![DownloadMiniconda](https://github.com/audrey35/anaconda-guide/images/DownloadMiniconda.png)
+![DownloadMiniconda](https://github.com/audrey35/anaconda-guide/blob/master/images/DownloadMiniconda.png)
 
 Once you have downloaded a conda installer, simply run the downloaded .exe file and follow the instructions on the screen. 
 
-![DownloadedExe](https://github.com/audrey35/anaconda-guide/images/DownloadedExe.png)
+![DownloadedExe](https://github.com/audrey35/anaconda-guide/blob/master/images/DownloadedExe.png)
 
-![Miniconda3Installation](https://github.com/audrey35/anaconda-guide/images/Miniconda3Installation.png)
+![Miniconda3Installation](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3Installation.png)
 
-![Miniconda3License](https://github.com/audrey35/anaconda-guide/images/Miniconda3License.png)
+![Miniconda3License](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3License.png)
 
-![Miniconda3UserSetting](https://github.com/audrey35/anaconda-guide/images/Miniconda3UserSetting.png)
+![Miniconda3UserSetting](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3UserSetting.png)
 
 Anaconda recommends installing in C:\anaconda [Documentation](https://docs.anaconda.com/anaconda/faq#in-what-folder-should-i-install-anaconda-on-windows)
 
-![Miniconda3InstallLocation](https://github.com/audrey35/anaconda-guide/images/Miniconda3InstallLocation.png)
+![Miniconda3InstallLocation](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3InstallLocation.png)
 
 Recommend not checking Add Anaconda to my PATH environment, unless this is the only Python installed on your computer. 
 
@@ -71,7 +71,7 @@ Recommend not checking Register Anaconda as my default Python 3.6, unless this i
 
 [Add Anaconda to my PATH environment variable](https://docs.anaconda.com/anaconda/faq#should-i-add-anaconda-to-the-windows-path)
 
-![Miniconda3PathSettings](https://github.com/audrey35/anaconda-guide/images/Miniconda3PathSettings.png)
+![Miniconda3PathSettings](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3PathSettings.png)
 
 Below are some links with detailed instructions on installation.
 
