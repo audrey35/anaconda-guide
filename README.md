@@ -73,6 +73,12 @@ Recommend not checking Register Anaconda as my default Python 3.6, unless this i
 
 ![Miniconda3PathSettings](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3PathSettings.png)
 
+![Miniconda3Installing](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3Installing.png)
+
+![Miniconda3InstallationComplete](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3InstallationComplete.png)
+
+![Miniconda3Finish](https://github.com/audrey35/anaconda-guide/blob/master/images/Miniconda3Finish.png)
+
 Below are some links with detailed instructions on installation.
 
 [Simple Windows Installation Instructions - Official Documentation](https://conda.io/docs/user-guide/install/windows.html)
